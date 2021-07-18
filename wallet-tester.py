@@ -7,8 +7,8 @@ import datetime
 # globals
 maxRuns = 1
 seedList = []
-masterWallet = '13o1dtFpS4w1Pe7m9pCaY3DMTFFghxafSSMCnXXTon22CEAUNAP'
-seedWords = ['require', 'damp', 'thumb', 'gadget', 'head', 'cloth', 'wine', 'concert', 'ice', 'portion', 'comfort', 'economy']
+masterWallet = ''
+seedWords = []
 
 # start functions
 def get_seed(array):
